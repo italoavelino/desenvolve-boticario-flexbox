@@ -40,6 +40,7 @@
  .conteudoPrincipal-cursos {
      display: flex;
      flex-wrap: wrap;
+     flex-direction: row-reverse;
  }
 
  .conteudoPrincipal-cursos-link {
